@@ -1,45 +1,35 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
+    "name": "Ryan Kirsch",
+    "occupation": "Web & Mobile Developer",
+    "description": "Learner, Developer, Engineer",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "Hi there! I'm Ryan! I've been coding for over 3 years now. As a junior Full Stack developer, I've worked on many personal projects, and recently completed a six-month bootcamp via Nucamp to gain my MERN Full Stack credentials. After 10 years in finance, I realized my passion for development and engineering, and understood I wanted to make this my career. I'm looking for a full-time position, and bring REAL VALUE through my work ethic, project management experience, and financial industry knowledge. Switching careers is not easy, but it's certainly made easier when you find something you love.",
+    "contactmessage": "Get in touch with me about job opportunities!",
+    "email": "ryankirsch88@gmail.com",
+    "phone": "+1-301-233-4363",
     "address": {
       "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28273"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "",
+    "resumedownload": "",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/ryan-s-kirsch/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/agalloch88/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/agalloch88",
         "className": "fa fa-github"
       }
     ]
@@ -48,50 +38,76 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "Nucamp Coding Bootcamp",
+        "degree": "Full Stack (MERN) Web & Mobile Development - Graduate with Honors",
+        "graduated": "May 2021",
+        "description": "Completed all coursework and multiple personal portfolio projects to earn Honors distinction."
+      },
+      {
+        "school": "University of Wisconsin-Madison",
+        "degree": "Bachelor of Arts",
+        "graduated": "May 2011",
+        "description": "Degree in Public Relations."
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "Asset Strategies International",
+        "title": "Project Manager",
+        "years": "October 2019 - Present",
+        "description": "Researched, coordinated & managed database migration from proprietary system to HubSpot CRM, Shopify webstore, coupled with proprietary business workflow component for seamless data sync. Promoted from Assistant Sales Manager, requiring ongoing execution of Assistant Sales Manager duties."
+      },
+      {
+        "company": "Asset Strategies International",
+        "title": "Assistant Sales Manager",
+        "years": "January 2019 - Present",
+        "description": "Promoted from Sales Representative. Supervised, trained, and motivated Sales Representatives for success within the company and beyond. Achieved top sales figures since 2014, averaging over $350,000 gross profit per year while working 100% remote since 01/2015."
+      },
+      {
+        "company": "Asset Strategies International",
+        "title": "Sales Representative",
+        "years": "September 2011 - December 2018",
+        "description": "Investigated & qualified potential leads, then converted an average of 1/3 to invested client. Proposed, structured, & delivered portfolios of tangible assets ranging from $2,000 to $5 million. Excelled at outbound sales & generated ~40% of YOY business from existing clients."
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "100%"
+        "name": "ReactJS",
+        "level": "60%"
       },
       {
         "name": "Python",
-        "level": "85%"
+        "level": "35%"
       },
       {
         "name": "Git",
-        "level": "70%"
+        "level": "60%"
       },
       {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "65%"
       },
       {
         "name": "Web Development",
-        "level": "95%"
+        "level": "70%"
+      },
+      {
+        "name": "React Native",
+        "level": "50%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "50%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "Discord Clone (React JS)",
         "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "image": "discord.jpg",
+        "url": "https://metalbrewz-chat-v2.web.app/"
       },
       {
         "title": "Gmail Clone (React JS)",
@@ -110,12 +126,8 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
-      },
-      {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Ryan stood out to me as a very sharp student from very early on in the course. He has shown multiple great engineering qualities. He is one of the few who always engage and participate during class discussion and always eager to learn. I highly recommend him for any junior Web Development position or junior Software Engineer position. I believe that he would be a great asset to any company.",
+        "user": "Phudith Pattharakositkul"
       }
     ]
   }
