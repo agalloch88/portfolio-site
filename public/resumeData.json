@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Ryan Kirsch",
-    "occupation": "Web & Mobile Developer",
-    "description": "Learner, Developer, Engineer",
+    "occupation": "Web & Mobile Developer. IT Project Manager.",
+    "description": "Learner, Problem Solver, Engineer",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I'm Ryan! I've been coding for over 3 years now. As a junior Full Stack developer, I've worked on many personal projects, and recently completed a six-month bootcamp via Nucamp to gain my MERN Full Stack credentials. After 10 years in finance, I realized my passion for development and engineering, and understood I wanted to make this my career. I'm looking for a full-time position, and bring REAL VALUE through my work ethic, project management experience, and financial industry knowledge. Switching careers is not easy, but it's certainly made easier when you find something you love.",
+    "bio": "Hi there! I'm Ryan! I’m an aspiring full stack engineer with experience building modern CRM & eCommerce solutions. I thrive in challenging environments where I can continue to grow in my learning leveraging modern technologies. With my experience in both sales and IT project management, I lead cross-functional teams by fostering creative and diverse ideas that optimize systems and workflows. I’m always focused on orchestrating better customer experience through better understanding of end-user experience.Most recently I completed 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐖𝐞𝐛 𝐚𝐧𝐝 𝐌𝐨𝐛𝐢𝐥𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐞 through Nucamp Coding Bootcamp to gain new skills. Right now, I’m enjoying challenging myself to the 100 Days of Code Challenge. Follow me to see my progress! I aim to leverage my attention to detail, ability to calculate risk, and analytical skills to drive better decision making across the business. Always open to professional collaboration and networking. Let’s connect!",
     "contactmessage": "Get in touch with me about job opportunities!",
     "email": "ryankirsch88@gmail.com",
     "phone": "+1-301-233-4363",
@@ -15,7 +15,7 @@
       "zip": "28273"
     },
     "website": "",
-    "resumedownload": "",
+    "resumedownload": "https://drive.google.com/file/d/1SsDH6HF6EAmmWOirUbHfm_13dpzzShO7/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -47,37 +47,25 @@
         "school": "University of Wisconsin-Madison",
         "degree": "Bachelor of Arts",
         "graduated": "May 2011",
-        "description": "Degree in Public Relations."
+        "description": "Degree in Public Relations. Completed Bachelor's Degree in three years."
       }
     ],
     "work": [
       {
         "company": "Asset Strategies International",
-        "title": "Project Manager",
-        "years": "October 2019 - Present",
-        "description": "Researched, coordinated & managed database migration from proprietary system to HubSpot CRM, Shopify webstore, coupled with proprietary business workflow component for seamless data sync. Promoted from Assistant Sales Manager, requiring ongoing execution of Assistant Sales Manager duties."
-      },
-      {
-        "company": "Asset Strategies International",
-        "title": "Assistant Sales Manager",
-        "years": "January 2019 - Present",
-        "description": "Promoted from Sales Representative. Supervised, trained, and motivated Sales Representatives for success within the company and beyond. Achieved top sales figures since 2014, averaging over $350,000 gross profit per year while working 100% remote since 01/2015."
-      },
-      {
-        "company": "Asset Strategies International",
-        "title": "Sales Representative",
-        "years": "September 2011 - December 2018",
-        "description": "Investigated & qualified potential leads, then converted an average of 1/3 to invested client. Proposed, structured, & delivered portfolios of tangible assets ranging from $2,000 to $5 million. Excelled at outbound sales & generated ~40% of YOY business from existing clients."
+        "title": "IT Project Manager",
+        "years": "September 2011 - Present",
+        "description": "Designed and built secure, scalable, lightweight services, features, and applications for the web using C# and SQL - including some light front-end work. Worked with business and development team to ideate, iterate, and prototype new capabilities for system platform. Orchestrated key architectural decisions on CRM and eCommerce integration solution that focused on customer-centric experience. Researched, coordinated, and managed database migration from a proprietary system to HubSpot CRM, Shopify platform, coupled with proprietary business workflow component for seamless data sync. Formulated new system testing, implementation, and training plans. Presented weekly cross-team project updates to stakeholders and led collaboration between teams to keep project on target and on budget. Promoted from Assistant Sales Manager, executing 50% YOY growth in core investment programs, critical to the company’s bear market profitability. Supervised, trained, and motivated Sales Representatives for success within the company and beyond. Achieved top sales figures since 2014, averaging over $350,000 gross profit per year while working 100% remote."
       }
     ],
     "skills": [
       {
         "name": "ReactJS",
-        "level": "60%"
+        "level": "65%"
       },
       {
         "name": "Python",
-        "level": "35%"
+        "level": "55%"
       },
       {
         "name": "Git",
@@ -85,19 +73,19 @@
       },
       {
         "name": "JavaScript",
-        "level": "65%"
-      },
-      {
-        "name": "Web Development",
         "level": "70%"
       },
       {
+        "name": "Web Development",
+        "level": "80%"
+      },
+      {
         "name": "React Native",
-        "level": "50%"
+        "level": "60%"
       },
       {
         "name": "NodeJS",
-        "level": "50%"
+        "level": "60%"
       }
     ]
   },
@@ -108,18 +96,6 @@
         "category": "",
         "image": "discord.jpg",
         "url": "https://metalbrewz-chat-v2.web.app/"
-      },
-      {
-        "title": "Gmail Clone (React JS)",
-        "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
-      },
-      {
-        "title": "LinkedIn Clone (React JS)",
-        "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
       }
     ]
   },
@@ -128,6 +104,14 @@
       {
         "text": "Ryan stood out to me as a very sharp student from very early on in the course. He has shown multiple great engineering qualities. He is one of the few who always engage and participate during class discussion and always eager to learn. I highly recommend him for any junior Web Development position or junior Software Engineer position. I believe that he would be a great asset to any company.",
         "user": "Phudith Pattharakositkul"
+      },
+      {
+        "text": "I had an opportunity to teach Ryan bootstrap, through his Nucamp journey, and coach him through his career. He is a fast learner and understands technology and concepts quickly.He helped struggling students with troubleshooting and debugging code when he was done with his assignments. He is a team player, critical thinker and ambitious. He would be a great asset to any company.",
+        "user": "Ghani Zahid MBA, MPM"
+      },
+      {
+        "text": "Ryan was definitely a 'go-to person' for me. When something important needed done he was definitely someone I could count on. He cares about his work, supports the people he works with, and delivers to his clients. I am really excited about his new venture, and look forward to hearing of his success. If I could work with him again, I would in a second.",
+        "user": "Steve Emerick"
       }
     ]
   }
