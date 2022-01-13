@@ -4,7 +4,7 @@
     "occupation": "Web & Mobile Developer. IT Project Manager.",
     "description": "Learner, Problem Solver, Engineer",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I'm Ryan! I’m an aspiring full stack engineer with experience building modern CRM & eCommerce solutions. I thrive in challenging environments where I can continue to grow in my learning leveraging modern technologies. With my experience in both sales and IT project management, I lead cross-functional teams by fostering creative and diverse ideas that optimize systems and workflows. I’m always focused on orchestrating better customer experience through better understanding of end-user experience.Most recently I completed 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐖𝐞𝐛 𝐚𝐧𝐝 𝐌𝐨𝐛𝐢𝐥𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐞 through Nucamp Coding Bootcamp to gain new skills. Right now, I’m enjoying challenging myself to the 100 Days of Code Challenge. Follow me to see my progress! I aim to leverage my attention to detail, ability to calculate risk, and analytical skills to drive better decision making across the business. Always open to professional collaboration and networking. Let’s connect!",
+    "bio": "Hi there! I'm Ryan! I’m a full stack software engineer with experience building modern CRM & eCommerce solutions. I thrive in challenging environments where I can continue to grow in my learning leveraging modern technologies. With my experience in both sales and IT project management, I lead cross-functional teams by fostering creative and diverse ideas that optimize systems and workflows. I’m always focused on orchestrating better customer experience through better understanding of end-user experience. Most recently I completed Backend Python Web Development, PostgreSQL with Python, and DevOps with Python Certificate through Nucamp Coding Bootcamp to gain new skills. Right now, I’m enjoying challenging myself in the third cohort of Plutus Pioneers, which will allow me to further and hone my blockchain development skills. Follow me to see my progress! I aim to leverage my attention to detail, ability to calculate risk, and analytical skills to drive better decision making across the business. Always open to professional collaboration and networking. Let’s connect!",
     "contactmessage": "Get in touch with me about job opportunities!",
     "email": "ryankirsch88@gmail.com",
     "phone": "+1-301-233-4363",
@@ -15,7 +15,7 @@
       "zip": "28273"
     },
     "website": "",
-    "resumedownload": "https://drive.google.com/file/d/1SsDH6HF6EAmmWOirUbHfm_13dpzzShO7/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1wAYrFclJziJBikL8YlKyuktVH0jdPOTQ/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -44,6 +44,12 @@
         "description": "Completed all coursework and multiple personal portfolio projects to earn Honors distinction."
       },
       {
+        "school": "Nucamp Coding Bootcamp",
+        "degree": "Backend Python Web Development, PostgreSQL with Python, and DevOps with Python - Graduate",
+        "graduated": "December 2021",
+        "description": "Completed all coursework and multiple personal portfolio projects to graduate from program in first cohort."
+      },
+      {
         "school": "University of Wisconsin-Madison",
         "degree": "Bachelor of Arts",
         "graduated": "May 2011",
@@ -51,6 +57,18 @@
       }
     ],
     "work": [
+      {
+        "company": "Longevity COnsulting",
+        "title": "Software Engineer",
+        "years": "August 2021 - Present",
+        "description": "Architected full stack GRC platform with React and Django for use with dozens of partner government agencies, complete with GraphQL schema. Developed and implemented RPA solutions using UiPath Studio for internal use cases, and worked with partner agencies to identify and automate tasks saving an average of $3,000+ per employee per year. Assisted US Dept. of Education in maintaining and expanding their program offerings to at-risk youth via Drupal 7 to Drupal 9 migration, AWS/GovCloud infrastructure compliance, and general site overhaul."
+      },
+      {
+        "company": "Loxe Inc.",
+        "title": "Software Engineer",
+        "years": "July 2021 - Present",
+        "description": "Built a decentralized mediation platform on the Cardano blockchain to advance the future of mediation access and transparency. Developed front end React assets using Tailwind CSS, and GraphQL schema components to facilitate the ease of signing up as a mediator or mediation party, selecting dates, paying for services and receiving funds. Collaborated with a globally disparate, multicultural team to build initial MVP, pitched to multiple different panels with Cardano Project Catalyst for seed funding."
+      },
       {
         "company": "Asset Strategies International",
         "title": "IT Project Manager",
@@ -61,19 +79,31 @@
     "skills": [
       {
         "name": "ReactJS",
-        "level": "65%"
+        "level": "75%"
       },
       {
         "name": "Python",
-        "level": "55%"
+        "level": "65%"
       },
       {
-        "name": "Git",
+        "name": "GraphQL",
         "level": "60%"
       },
       {
+        "name": "AWS",
+        "level": "75%"
+      },
+      {
+        "name": "Git/Github",
+        "level": "80%"
+      },
+      {
         "name": "JavaScript",
-        "level": "70%"
+        "level": "75%"
+      },
+      {
+        "name": "Docker",
+        "level": "65%"
       },
       {
         "name": "Web Development",
@@ -81,11 +111,11 @@
       },
       {
         "name": "React Native",
-        "level": "60%"
+        "level": "65%"
       },
       {
         "name": "NodeJS",
-        "level": "60%"
+        "level": "70%"
       }
     ]
   },
@@ -96,6 +126,12 @@
         "category": "",
         "image": "discord.jpg",
         "url": "https://metalbrewz-chat-v2.web.app/"
+      },
+      {
+        "title": "Twitter Clone (Next JS)",
+        "category": "",
+        "image": "twitter.jpg",
+        "url": "https://twitter-v2-phi.vercel.app/"
       }
     ]
   },
