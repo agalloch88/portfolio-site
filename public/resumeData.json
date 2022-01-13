@@ -58,7 +58,7 @@
     ],
     "work": [
       {
-        "company": "Longevity COnsulting",
+        "company": "Longevity Consulting",
         "title": "Software Engineer",
         "years": "August 2021 - Present",
         "description": "Architected full stack GRC platform with React and Django for use with dozens of partner government agencies, complete with GraphQL schema. Developed and implemented RPA solutions using UiPath Studio for internal use cases, and worked with partner agencies to identify and automate tasks saving an average of $3,000+ per employee per year. Assisted US Dept. of Education in maintaining and expanding their program offerings to at-risk youth via Drupal 7 to Drupal 9 migration, AWS/GovCloud infrastructure compliance, and general site overhaul."
