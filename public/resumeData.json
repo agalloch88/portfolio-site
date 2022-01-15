@@ -38,6 +38,12 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
+        "school": "IOHK",
+        "degree": "Plutus Pioneers Third Cohort",
+        "graduated": "In Progress - Expected March 2022",
+        "description": "Learn how to develop with Plutus for use on Cardano blockchain."
+      },
+      {
         "school": "Nucamp Coding Bootcamp",
         "degree": "Full Stack (MERN) Web & Mobile Development - Graduate with Honors",
         "graduated": "May 2021",
