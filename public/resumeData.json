@@ -45,15 +45,15 @@
       },
       {
         "school": "Nucamp Coding Bootcamp",
-        "degree": "Full Stack (MERN) Web & Mobile Development - Graduate with Honors",
-        "graduated": "May 2021",
-        "description": "Completed all coursework and multiple personal portfolio projects to earn Honors distinction."
-      },
-      {
-        "school": "Nucamp Coding Bootcamp",
         "degree": "Backend Python Web Development, PostgreSQL with Python, and DevOps with Python - Graduate",
         "graduated": "December 2021",
         "description": "Completed all coursework and multiple personal portfolio projects to graduate from program in first cohort."
+      },
+      {
+        "school": "Nucamp Coding Bootcamp",
+        "degree": "Full Stack (MERN) Web & Mobile Development - Graduate with Honors",
+        "graduated": "May 2021",
+        "description": "Completed all coursework and multiple personal portfolio projects to earn Honors distinction."
       },
       {
         "school": "University of Wisconsin-Madison",
@@ -138,6 +138,18 @@
         "category": "",
         "image": "twitter.jpg",
         "url": "https://twitter-v2-phi.vercel.app/"
+      },
+      {
+        "title": "Medium Clone (Next JS & Sanity)",
+        "category": "",
+        "image": "medium.jpg",
+        "url": "https://medium-sanity-build-eight.vercel.app/"
+      },
+      {
+        "title": "Adatar (React JS, TypeScript, & Tailwind CSS)",
+        "category": "",
+        "image": "cardano.svg",
+        "url": "https://adatar.me/"
       }
     ]
   },
