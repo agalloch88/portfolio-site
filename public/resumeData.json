@@ -134,6 +134,12 @@
         "url": "https://metalbrewz-chat-v2.web.app/"
       },
       {
+        "title": "Tesla Clone (React JS, Redux, styled-components)",
+        "category": "",
+        "image": "tesla.jpg",
+        "url": "https://relaxed-allen-ea717e.netlify.app/"
+      },
+      {
         "title": "Twitter Clone (Next JS)",
         "category": "",
         "image": "twitter.jpg",
@@ -150,6 +156,12 @@
         "category": "",
         "image": "cardano.svg",
         "url": "https://adatar.me/"
+      },
+      {
+        "title": "Loxe Inc. Site (React JS, TypeScript, & Tailwind CSS)",
+        "category": "",
+        "image": "loxe2.jpg",
+        "url": "https://loxeinc.com/"
       }
     ]
   },
