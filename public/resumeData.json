@@ -162,13 +162,19 @@
         "category": "",
         "image": "loxe2.jpg",
         "url": "https://loxeinc.com/"
+      },
+      {
+        "title": "Rosebud Turner Personal Site (Next JS & Tailwind CSS)",
+        "category": "",
+        "image": "rosebud-standing.jpeg",
+        "url": "https://www.rosebudturner.com"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Ryan stood out to me as a very sharp student from very early on in the course. He has shown multiple great engineering qualities. He is one of the few who always engage and participate during class discussion and always eager to learn. I highly recommend him for any junior Web Development position or junior Software Engineer position. I believe that he would be a great asset to any company.",
+        "text": "Ryan stood out to me as a very sharp student from very early on in the course. He has shown multiple great engineering qualities. He is one of the few who always engage and participate during class discussion and always eager to learn. I highly recommend him for any Web Development position or Software Engineer position. I believe that he would be a great asset to any company.",
         "user": "Phudith Pattharakositkul"
       },
       {
